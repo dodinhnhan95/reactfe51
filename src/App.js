@@ -13,6 +13,7 @@ import DemoProps from "./Props/DemoProps";
 import Fix from "./Fix/Fix";
 import BaiTapGioHang from "./Components/BaiTapGioHang";
 import BaiTapGioHangRedux from "./BaiTapRedux/BaiTapGioHangRedux";
+import BaiTapGameXucXac from "./BaiTapGameXucXac/BaiTapGameXucXac";
 function App() {
   return (
     <div className="App">
@@ -27,7 +28,8 @@ function App() {
       {/* <Fix />
       <DemoProps /> */}
       {/* <BaiTapGioHang /> */}
-      <BaiTapGioHangRedux />
+      {/* <BaiTapGioHangRedux /> */}
+      <BaiTapGameXucXac />
     </div>
   );
 }
