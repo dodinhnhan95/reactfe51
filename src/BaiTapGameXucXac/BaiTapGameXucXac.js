@@ -23,3 +23,7 @@ export default class BaiTapGameXucXac extends Component {
     );
   }
 }
+
+// xác đinhn nguồn dữ liệu thay đổi của ứng dụng state . Tổ chức lưu trữ
+// + biến tài xỉu : string
+// + mảng xúc xắc : [{ma: '', hinhAnh
